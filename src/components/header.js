@@ -6,6 +6,7 @@ import { faBars, faComputerMouse, faDownload, faPhone, faToggleOn } from "@forta
 import { faSun } from "@fortawesome/free-regular-svg-icons";
 
 
+
 const Home = (theme) => {
     const image1 = `${theme.theme === "light" ? "/shape-top-white-80.png" : "/shape-top-black-80.png"}`;
     return (
